@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ousman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 <p align="center">
-  <b>Backend-Focused Full Stack Developer | Software Engineering Graduate</b>
+  <b>Backend-Focused Full Stack Developer | Software Engineering</b>
   <br>
   Building scalable, reliable, and production-grade systems
 </p>
